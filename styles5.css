@@ -1,0 +1,29 @@
+body{
+  background-color:#F4F4F4;
+}
+.color-grid{
+  display:flex;
+  justify-content:center;
+  margin-top:220px;
+  gap:10px;
+}
+.color-box{
+  width:150px;
+  height:90px;
+  border-radius:10px;
+}
+.color1{
+  background-color:#4D567E;
+}
+.color2{
+background-color:rgb(223,56,74);
+}
+.color3{
+  background-color:aqua;
+}
+.color4{
+  background-color:hsl(120,35%,52%)
+}
+.color5{
+  background-color:brown;
+}
