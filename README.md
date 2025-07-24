@@ -4,7 +4,7 @@ A simple webpage showcasing various color boxes styled with different background
 
 ## 📸 Preview
 
-![Color Boxes Preview](./preview.png)
+![Color Boxes Preview](preview.png.png)
 
 ## 📁 Files
 
